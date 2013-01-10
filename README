@@ -1,0 +1,8 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4393
+
+將boshiamy.vim放在你vim的keymap目錄下。執行
+:set keymap=boshiamy
+你就可以在vim下使用蝦米輸入，<Ctrl-^>可以切換中英輸入模式。
+這個方法的唯一毛病就是如果同一個蝦米碼有兩個以上的選擇，你不能看到選擇。在注音輸法下，這可能會有問題，但蝦米輸入大致上不會有問題。我這篇介紹就是這樣打的。
+
+
